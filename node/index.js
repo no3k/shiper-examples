@@ -13,5 +13,5 @@ app.get("/headers", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port} v1.0.22`);
+  console.log(`Example app listening on port ${port} v1.0.23`);
 });
