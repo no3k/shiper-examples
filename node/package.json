@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "mkdir build-executed"
+    "build": "mkdir build-executed-2"
   },
   "author": "",
   "license": "ISC",
